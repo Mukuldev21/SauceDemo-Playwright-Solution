@@ -1,4 +1,4 @@
-﻿# SauceDemo Playwright Java Solution
+﻿# SauceDemo-Playwright-Solution
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Playwright](https://img.shields.io/badge/Playwright-Java-green.svg)](https://playwright.dev/java/)
