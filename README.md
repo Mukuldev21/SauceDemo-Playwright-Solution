@@ -116,7 +116,7 @@ If you're using Jenkins, you can install the Allure plugin to view reports direc
 
 ## 🔄 CI/CD Integration
 
-This project includes configuration for continuous integration using GitHub Actions. Check the `.github/workflows` directory for workflow configurations.
+This project includes configuration for continuous integration using Jenkins.
 
 ## 🧪 Test Coverage
 
